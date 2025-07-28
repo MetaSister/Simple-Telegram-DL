@@ -6,4 +6,4 @@ Requirements
 ```
 pip install telethon
 ```
-<img width="719" height="464" alt="project" src="https://github.com/user-attachments/assets/f8c1c01b-7a53-4c9c-bce1-9391b11eb3df" />
+<img width="526" height="416" alt="yes" src="https://github.com/user-attachments/assets/3b6a854d-c04e-4572-8456-2f6831dbe22e" />
