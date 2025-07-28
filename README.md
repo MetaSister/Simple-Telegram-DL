@@ -1,5 +1,5 @@
 # Simple-Telegram-DL
-Simple &amp; Strong Telegram Media Downloader
+Simple Telegram Media Downloader
 
 Requirements
 ------------
