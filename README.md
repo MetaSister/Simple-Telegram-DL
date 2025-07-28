@@ -1,4 +1,7 @@
 # Simple-Telegram-DL
 Simple &amp; Strong Telegram Media Downloader
 
-" pip install telethon "
+```python
+def hello():
+    print("Merhaba, Dünya!")
+```
