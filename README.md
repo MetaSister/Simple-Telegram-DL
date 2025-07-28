@@ -3,6 +3,8 @@ Simple Telegram Media Downloader
 
 Requirements
 ------------
+1-Python 3.9
+2-Telethon Library
 ```
 pip install telethon
 ```
